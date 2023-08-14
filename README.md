@@ -10,6 +10,10 @@ If you want more code tutorials like this, follow me on github and youtube: http
 In-Depth Code Tutorials in a documentation format available at: https://www.libraryofcelsus.com/research/public/code-tutorials/
 
 ## Window's Installation
+1. If using Qdrant Cloud copy their Api key and Url to the corresponding .txt files.  
+Qdrant Cloud Link: https://qdrant.to/cloud  
+To use a local Qdrant server, first install Docker: https://www.docker.com/, then see: https://github.com/qdrant/qdrant/blob/master/QUICK_START.md  
+Once the local Qdrant server is running, it should be auto detected by the script.
 1. Install Git
 2. Install Python 3.10.6, Make sure you add it to PATH
 3. Open Git Bash Program

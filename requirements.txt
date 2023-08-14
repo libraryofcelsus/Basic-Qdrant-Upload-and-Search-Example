@@ -1,3 +1,4 @@
 requests
 qdrant-client
 sentence-transformers
+openai

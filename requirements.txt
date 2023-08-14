@@ -1,0 +1,3 @@
+requests
+qdrant-client
+sentence-transformers
